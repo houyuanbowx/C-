@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
+//实现数组内容的交换
 int main(){
     int arr1[4] = { 1,2,3,4 };
     int arr2[4] = { 5,6,7,8 };
